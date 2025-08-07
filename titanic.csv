@@ -1,0 +1,1310 @@
+PassengerId,Survived,Pclass,LastName,RestOfName
+1,NO,3,Braund, Mr. Owen Harris
+2,YES,1,Cumings, Mrs. John Bradley (Florence Briggs Thayer)
+3,YES,3,Heikkinen, Miss. Laina
+4,YES,1,Futrelle, Mrs. Jacques Heath (Lily May Peel)
+5,NO,3,Allen, Mr. William Henry
+6,NO,3,Moran, Mr. James
+7,NO,1,McCarthy, Mr. Timothy J
+8,NO,3,Palsson, Master. Gosta Leonard
+9,YES,3,Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)
+10,YES,2,Nasser, Mrs. Nicholas (Adele Achem)
+11,YES,3,Sandstrom, Miss. Marguerite Rut
+12,YES,1,Bonnell, Miss. Elizabeth
+13,NO,3,Saundercock, Mr. William Henry
+14,NO,3,Andersson, Mr. Anders Johan
+15,NO,3,Vestrom, Miss. Hulda Amanda Adolfina
+16,YES,2,Hewlett, Mrs. (Mary D Kingcome) 
+17,NO,3,Rice, Master. Eugene
+18,YES,2,Williams, Mr. Charles Eugene
+19,NO,3,Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)
+20,YES,3,Masselmani, Mrs. Fatima
+21,NO,2,Fynney, Mr. Joseph J
+22,YES,2,Beesley, Mr. Lawrence
+23,YES,3,McGowan," Miss. Anna ""Annie"""
+24,YES,1,Sloper, Mr. William Thompson
+25,NO,3,Palsson, Miss. Torborg Danira
+26,YES,3,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)
+27,NO,3,Emir, Mr. Farred Chehab
+28,NO,1,Fortune, Mr. Charles Alexander
+29,YES,3,O'Dwyer," Miss. Ellen ""Nellie"""
+30,NO,3,Todoroff, Mr. Lalio
+31,NO,1,Uruchurtu, Don. Manuel E
+32,YES,1,Spencer, Mrs. William Augustus (Marie Eugenie)
+33,YES,3,Glynn, Miss. Mary Agatha
+34,NO,2,Wheadon, Mr. Edward H
+35,NO,1,Meyer, Mr. Edgar Joseph
+36,NO,1,Holverson, Mr. Alexander Oskar
+37,YES,3,Mamee, Mr. Hanna
+38,NO,3,Cann, Mr. Ernest Charles
+39,NO,3,Vander Planke, Miss. Augusta Maria
+40,YES,3,Nicola-Yarred, Miss. Jamila
+41,NO,3,Ahlin, Mrs. Johan (Johanna Persdotter Larsson)
+42,NO,2,Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)
+43,NO,3,Kraeff, Mr. Theodor
+44,YES,2,Laroche, Miss. Simonne Marie Anne Andree
+45,YES,3,Devaney, Miss. Margaret Delia
+46,NO,3,Rogers, Mr. William John
+47,NO,3,Lennon, Mr. Denis
+48,YES,3,O'Driscoll, Miss. Bridget
+49,NO,3,Samaan, Mr. Youssef
+50,NO,3,Arnold-Franchi, Mrs. Josef (Josefine Franchi)
+51,NO,3,Panula, Master. Juha Niilo
+52,NO,3,Nosworthy, Mr. Richard Cater
+53,YES,1,Harper, Mrs. Henry Sleeper (Myna Haxtun)
+54,YES,2,Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)
+55,NO,1,Ostby, Mr. Engelhart Cornelius
+56,YES,1,Woolner, Mr. Hugh
+57,YES,2,Rugg, Miss. Emily
+58,NO,3,Novel, Mr. Mansouer
+59,YES,2,West, Miss. Constance Mirium
+60,NO,3,Goodwin, Master. William Frederick
+61,NO,3,Sirayanian, Mr. Orsen
+62,YES,1,Icard, Miss. Amelie
+63,NO,1,Harris, Mr. Henry Birkhardt
+64,NO,3,Skoog, Master. Harald
+65,NO,1,Stewart, Mr. Albert A
+66,YES,3,Moubarek, Master. Gerios
+67,YES,2,Nye, Mrs. (Elizabeth Ramell)
+68,NO,3,Crease, Mr. Ernest James
+69,YES,3,Andersson, Miss. Erna Alexandra
+70,NO,3,Kink, Mr. Vincenz
+71,NO,2,Jenkin, Mr. Stephen Curnow
+72,NO,3,Goodwin, Miss. Lillian Amy
+73,NO,2,Hood, Mr. Ambrose Jr
+74,NO,3,Chronopoulos, Mr. Apostolos
+75,YES,3,Bing, Mr. Lee
+76,NO,3,Moen, Mr. Sigurd Hansen
+77,NO,3,Staneff, Mr. Ivan
+78,NO,3,Moutal, Mr. Rahamin Haim
+79,YES,2,Caldwell, Master. Alden Gates
+80,YES,3,Dowdell, Miss. Elizabeth
+81,NO,3,Waelens, Mr. Achille
+82,YES,3,Sheerlinck, Mr. Jan Baptist
+83,YES,3,McDermott, Miss. Brigdet Delia
+84,NO,1,Carrau, Mr. Francisco M
+85,YES,2,Ilett, Miss. Bertha
+86,YES,3,Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)
+87,NO,3,Ford, Mr. William Neal
+88,NO,3,Slocovski, Mr. Selman Francis
+89,YES,1,Fortune, Miss. Mabel Helen
+90,NO,3,Celotti, Mr. Francesco
+91,NO,3,Christmann, Mr. Emil
+92,NO,3,Andreasson, Mr. Paul Edvin
+93,NO,1,Chaffee, Mr. Herbert Fuller
+94,NO,3,Dean, Mr. Bertram Frank
+95,NO,3,Coxon, Mr. Daniel
+96,NO,3,Shorney, Mr. Charles Joseph
+97,NO,1,Goldschmidt, Mr. George B
+98,YES,1,Greenfield, Mr. William Bertram
+99,YES,2,Doling, Mrs. John T (Ada Julia Bone)
+100,NO,2,Kantor, Mr. Sinai
+101,NO,3,Petranec, Miss. Matilda
+102,NO,3,Petroff," Mr. Pastcho (""Pentcho"")"
+103,NO,1,White, Mr. Richard Frasar
+104,NO,3,Johansson, Mr. Gustaf Joel
+105,NO,3,Gustafsson, Mr. Anders Vilhelm
+106,NO,3,Mionoff, Mr. Stoytcho
+107,YES,3,Salkjelsvik, Miss. Anna Kristine
+108,YES,3,Moss, Mr. Albert Johan
+109,NO,3,Rekic, Mr. Tido
+110,YES,3,Moran, Miss. Bertha
+111,NO,1,Porter, Mr. Walter Chamberlain
+112,NO,3,Zabour, Miss. Hileni
+113,NO,3,Barton, Mr. David John
+114,NO,3,Jussila, Miss. Katriina
+115,NO,3,Attalah, Miss. Malake
+116,NO,3,Pekoniemi, Mr. Edvard
+117,NO,3,Connors, Mr. Patrick
+118,NO,2,Turpin, Mr. William John Robert
+119,NO,1,Baxter, Mr. Quigg Edmond
+120,NO,3,Andersson, Miss. Ellis Anna Maria
+121,NO,2,Hickman, Mr. Stanley George
+122,NO,3,Moore, Mr. Leonard Charles
+123,NO,2,Nasser, Mr. Nicholas
+124,YES,2,Webber, Miss. Susan
+125,NO,1,White, Mr. Percival Wayland
+126,YES,3,Nicola-Yarred, Master. Elias
+127,NO,3,McMahon, Mr. Martin
+128,YES,3,Madsen, Mr. Fridtjof Arne
+129,YES,3,Peter, Miss. Anna
+130,NO,3,Ekstrom, Mr. Johan
+131,NO,3,Drazenoic, Mr. Jozef
+132,NO,3,Coelho, Mr. Domingos Fernandeo
+133,NO,3,Robins, Mrs. Alexander A (Grace Charity Laury)
+134,YES,2,Weisz, Mrs. Leopold (Mathilde Francoise Pede)
+135,NO,2,Sobey, Mr. Samuel James Hayden
+136,NO,2,Richard, Mr. Emile
+137,YES,1,Newsom, Miss. Helen Monypeny
+138,NO,1,Futrelle, Mr. Jacques Heath
+139,NO,3,Osen, Mr. Olaf Elon
+140,NO,1,Giglio, Mr. Victor
+141,NO,3,Boulos, Mrs. Joseph (Sultana)
+142,YES,3,Nysten, Miss. Anna Sofia
+143,YES,3,Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)
+144,NO,3,Burke, Mr. Jeremiah
+145,NO,2,Andrew, Mr. Edgardo Samuel
+146,NO,2,Nicholls, Mr. Joseph Charles
+147,YES,3,Andersson," Mr. August Edvard (""Wennerstrom"")"
+148,NO,3,Ford," Miss. Robina Maggie ""Ruby"""
+149,NO,2,Navratil," Mr. Michel (""Louis M Hoffman"")"
+150,NO,2,Byles, Rev. Thomas Roussel Davids
+151,NO,2,Bateman, Rev. Robert James
+152,YES,1,Pears, Mrs. Thomas (Edith Wearne)
+153,NO,3,Meo, Mr. Alfonzo
+154,NO,3,van Billiard, Mr. Austin Blyler
+155,NO,3,Olsen, Mr. Ole Martin
+156,NO,1,Williams, Mr. Charles Duane
+157,YES,3,Gilnagh," Miss. Katherine ""Katie"""
+158,NO,3,Corn, Mr. Harry
+159,NO,3,Smiljanic, Mr. Mile
+160,NO,3,Sage, Master. Thomas Henry
+161,NO,3,Cribb, Mr. John Hatfield
+162,YES,2,Watt," Mrs. James (Elizabeth ""Bessie"" Inglis Milne)"
+163,NO,3,Bengtsson, Mr. John Viktor
+164,NO,3,Calic, Mr. Jovo
+165,NO,3,Panula, Master. Eino Viljami
+166,YES,3,Goldsmith," Master. Frank John William ""Frankie"""
+167,YES,1,Chibnall, Mrs. (Edith Martha Bowerman)
+168,NO,3,Skoog, Mrs. William (Anna Bernhardina Karlsson)
+169,NO,1,Baumann, Mr. John D
+170,NO,3,Ling, Mr. Lee
+171,NO,1,Van der hoef, Mr. Wyckoff
+172,NO,3,Rice, Master. Arthur
+173,YES,3,Johnson, Miss. Eleanor Ileen
+174,NO,3,Sivola, Mr. Antti Wilhelm
+175,NO,1,Smith, Mr. James Clinch
+176,NO,3,Klasen, Mr. Klas Albin
+177,NO,3,Lefebre, Master. Henry Forbes
+178,NO,1,Isham, Miss. Ann Elizabeth
+179,NO,2,Hale, Mr. Reginald
+180,NO,3,Leonard, Mr. Lionel
+181,NO,3,Sage, Miss. Constance Gladys
+182,NO,2,Pernot, Mr. Rene
+183,NO,3,Asplund, Master. Clarence Gustaf Hugo
+184,YES,2,Becker, Master. Richard F
+185,YES,3,Kink-Heilmann, Miss. Luise Gretchen
+186,NO,1,Rood, Mr. Hugh Roscoe
+187,YES,3,O'Brien," Mrs. Thomas (Johanna ""Hannah"" Godfrey)"
+188,YES,1,Romaine," Mr. Charles Hallace (""Mr C Rolmane"")"
+189,NO,3,Bourke, Mr. John
+190,NO,3,Turcin, Mr. Stjepan
+191,YES,2,Pinsky, Mrs. (Rosa)
+192,NO,2,Carbines, Mr. William
+193,YES,3,Andersen-Jensen, Miss. Carla Christine Nielsine
+194,YES,2,Navratil, Master. Michel M
+195,YES,1,Brown, Mrs. James Joseph (Margaret Tobin)
+196,YES,1,Lurette, Miss. Elise
+197,NO,3,Mernagh, Mr. Robert
+198,NO,3,Olsen, Mr. Karl Siegwart Andreas
+199,YES,3,Madigan," Miss. Margaret ""Maggie"""
+200,NO,2,Yrois," Miss. Henriette (""Mrs Harbeck"")"
+201,NO,3,Vande Walle, Mr. Nestor Cyriel
+202,NO,3,Sage, Mr. Frederick
+203,NO,3,Johanson, Mr. Jakob Alfred
+204,NO,3,Youseff, Mr. Gerious
+205,YES,3,Cohen," Mr. Gurshon ""Gus"""
+206,NO,3,Strom, Miss. Telma Matilda
+207,NO,3,Backstrom, Mr. Karl Alfred
+208,YES,3,Albimona, Mr. Nassef Cassem
+209,YES,3,Carr," Miss. Helen ""Ellen"""
+210,YES,1,Blank, Mr. Henry
+211,NO,3,Ali, Mr. Ahmed
+212,YES,2,Cameron, Miss. Clear Annie
+213,NO,3,Perkin, Mr. John Henry
+214,NO,2,Givard, Mr. Hans Kristensen
+215,NO,3,Kiernan, Mr. Philip
+216,YES,1,Newell, Miss. Madeleine
+217,YES,3,Honkanen, Miss. Eliina
+218,NO,2,Jacobsohn, Mr. Sidney Samuel
+219,YES,1,Bazzani, Miss. Albina
+220,NO,2,Harris, Mr. Walter
+221,YES,3,Sunderland, Mr. Victor Francis
+222,NO,2,Bracken, Mr. James H
+223,NO,3,Green, Mr. George Henry
+224,NO,3,Nenkoff, Mr. Christo
+225,YES,1,Hoyt, Mr. Frederick Maxfield
+226,NO,3,Berglund, Mr. Karl Ivar Sven
+227,YES,2,Mellors, Mr. William John
+228,NO,3,Lovell," Mr. John Hall (""Henry"")"
+229,NO,2,Fahlstrom, Mr. Arne Jonas
+230,NO,3,Lefebre, Miss. Mathilde
+231,YES,1,Harris, Mrs. Henry Birkhardt (Irene Wallach)
+232,NO,3,Larsson, Mr. Bengt Edvin
+233,NO,2,Sjostedt, Mr. Ernst Adolf
+234,YES,3,Asplund, Miss. Lillian Gertrud
+235,NO,2,Leyson, Mr. Robert William Norman
+236,NO,3,Harknett, Miss. Alice Phoebe
+237,NO,2,Hold, Mr. Stephen
+238,YES,2,Collyer," Miss. Marjorie ""Lottie"""
+239,NO,2,Pengelly, Mr. Frederick William
+240,NO,2,Hunt, Mr. George Henry
+241,NO,3,Zabour, Miss. Thamine
+242,YES,3,Murphy," Miss. Katherine ""Kate"""
+243,NO,2,Coleridge, Mr. Reginald Charles
+244,NO,3,Maenpaa, Mr. Matti Alexanteri
+245,NO,3,Attalah, Mr. Sleiman
+246,NO,1,Minahan, Dr. William Edward
+247,NO,3,Lindahl, Miss. Agda Thorilda Viktoria
+248,YES,2,Hamalainen, Mrs. William (Anna)
+249,YES,1,Beckwith, Mr. Richard Leonard
+250,NO,2,Carter, Rev. Ernest Courtenay
+251,NO,3,Reed, Mr. James George
+252,NO,3,Strom, Mrs. Wilhelm (Elna Matilda Persson)
+253,NO,1,Stead, Mr. William Thomas
+254,NO,3,Lobb, Mr. William Arthur
+255,NO,3,Rosblom, Mrs. Viktor (Helena Wilhelmina)
+256,YES,3,Touma, Mrs. Darwis (Hanne Youssef Razi)
+257,YES,1,Thorne, Mrs. Gertrude Maybelle
+258,YES,1,Cherry, Miss. Gladys
+259,YES,1,Ward, Miss. Anna
+260,YES,2,Parrish, Mrs. (Lutie Davis)
+261,NO,3,Smith, Mr. Thomas
+262,YES,3,Asplund, Master. Edvin Rojj Felix
+263,NO,1,Taussig, Mr. Emil
+264,NO,1,Harrison, Mr. William
+265,NO,3,Henry, Miss. Delia
+266,NO,2,Reeves, Mr. David
+267,NO,3,Panula, Mr. Ernesti Arvid
+268,YES,3,Persson, Mr. Ernst Ulrik
+269,YES,1,Graham, Mrs. William Thompson (Edith Junkins)
+270,YES,1,Bissette, Miss. Amelia
+271,NO,1,Cairns, Mr. Alexander
+272,YES,3,Tornquist, Mr. William Henry
+273,YES,2,Mellinger, Mrs. (Elizabeth Anne Maidment)
+274,NO,1,Natsch, Mr. Charles H
+275,YES,3,Healy," Miss. Hanora ""Nora"""
+276,YES,1,Andrews, Miss. Kornelia Theodosia
+277,NO,3,Lindblom, Miss. Augusta Charlotta
+278,NO,2,Parkes," Mr. Francis ""Frank"""
+279,NO,3,Rice, Master. Eric
+280,YES,3,Abbott, Mrs. Stanton (Rosa Hunt)
+281,NO,3,Duane, Mr. Frank
+282,NO,3,Olsson, Mr. Nils Johan Goransson
+283,NO,3,de Pelsmaeker, Mr. Alfons
+284,YES,3,Dorking, Mr. Edward Arthur
+285,NO,1,Smith, Mr. Richard William
+286,NO,3,Stankovic, Mr. Ivan
+287,YES,3,de Mulder, Mr. Theodore
+288,NO,3,Naidenoff, Mr. Penko
+289,YES,2,Hosono, Mr. Masabumi
+290,YES,3,Connolly, Miss. Kate
+291,YES,1,Barber," Miss. Ellen ""Nellie"""
+292,YES,1,Bishop, Mrs. Dickinson H (Helen Walton)
+293,NO,2,Levy, Mr. Rene Jacques
+294,NO,3,Haas, Miss. Aloisia
+295,NO,3,Mineff, Mr. Ivan
+296,NO,1,Lewy, Mr. Ervin G
+297,NO,3,Hanna, Mr. Mansour
+298,NO,1,Allison, Miss. Helen Loraine
+299,YES,1,Saalfeld, Mr. Adolphe
+300,YES,1,Baxter, Mrs. James (Helene DeLaudeniere Chaput)
+301,YES,3,Kelly," Miss. Anna Katherine ""Annie Kate"""
+302,YES,3,McCoy, Mr. Bernard
+303,NO,3,Johnson, Mr. William Cahoone Jr
+304,YES,2,Keane, Miss. Nora A
+305,NO,3,Williams," Mr. Howard Hugh ""Harry"""
+306,YES,1,Allison, Master. Hudson Trevor
+307,YES,1,Fleming, Miss. Margaret
+308,YES,1,Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+309,NO,2,Abelson, Mr. Samuel
+310,YES,1,Francatelli, Miss. Laura Mabel
+311,YES,1,Hays, Miss. Margaret Bechstein
+312,YES,1,Ryerson, Miss. Emily Borie
+313,NO,2,Lahtinen, Mrs. William (Anna Sylfven)
+314,NO,3,Hendekovic, Mr. Ignjac
+315,NO,2,Hart, Mr. Benjamin
+316,YES,3,Nilsson, Miss. Helmina Josefina
+317,YES,2,Kantor, Mrs. Sinai (Miriam Sternin)
+318,NO,2,Moraweck, Dr. Ernest
+319,YES,1,Wick, Miss. Mary Natalie
+320,YES,1,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)
+321,NO,3,Dennis, Mr. Samuel
+322,NO,3,Danoff, Mr. Yoto
+323,YES,2,Slayter, Miss. Hilda Mary
+324,YES,2,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)
+325,NO,3,Sage, Mr. George John Jr
+326,YES,1,Young, Miss. Marie Grice
+327,NO,3,Nysveen, Mr. Johan Hansen
+328,YES,2,Ball, Mrs. (Ada E Hall)
+329,YES,3,Goldsmith, Mrs. Frank John (Emily Alice Brown)
+330,YES,1,Hippach, Miss. Jean Gertrude
+331,YES,3,McCoy, Miss. Agnes
+332,NO,1,Partner, Mr. Austen
+333,NO,1,Graham, Mr. George Edward
+334,NO,3,Vander Planke, Mr. Leo Edmondus
+335,YES,1,Frauenthal, Mrs. Henry William (Clara Heinsheimer)
+336,NO,3,Denkoff, Mr. Mitto
+337,NO,1,Pears, Mr. Thomas Clinton
+338,YES,1,Burns, Miss. Elizabeth Margaret
+339,YES,3,Dahl, Mr. Karl Edwart
+340,NO,1,Blackwell, Mr. Stephen Weart
+341,YES,2,Navratil, Master. Edmond Roger
+342,YES,1,Fortune, Miss. Alice Elizabeth
+343,NO,2,Collander, Mr. Erik Gustaf
+344,NO,2,Sedgwick, Mr. Charles Frederick Waddington
+345,NO,2,Fox, Mr. Stanley Hubert
+346,YES,2,Brown," Miss. Amelia ""Mildred"""
+347,YES,2,Smith, Miss. Marion Elsie
+348,YES,3,Davison, Mrs. Thomas Henry (Mary E Finck)
+349,YES,3,Coutts," Master. William Loch ""William"""
+350,NO,3,Dimic, Mr. Jovan
+351,NO,3,Odahl, Mr. Nils Martin
+352,NO,1,Williams-Lambert, Mr. Fletcher Fellows
+353,NO,3,Elias, Mr. Tannous
+354,NO,3,Arnold-Franchi, Mr. Josef
+355,NO,3,Yousif, Mr. Wazli
+356,NO,3,Vanden Steen, Mr. Leo Peter
+357,YES,1,Bowerman, Miss. Elsie Edith
+358,NO,2,Funk, Miss. Annie Clemmer
+359,YES,3,McGovern, Miss. Mary
+360,YES,3,Mockler," Miss. Helen Mary ""Ellie"""
+361,NO,3,Skoog, Mr. Wilhelm
+362,NO,2,del Carlo, Mr. Sebastiano
+363,NO,3,Barbara, Mrs. (Catherine David)
+364,NO,3,Asim, Mr. Adola
+365,NO,3,O'Brien, Mr. Thomas
+366,NO,3,Adahl, Mr. Mauritz Nils Martin
+367,YES,1,Warren, Mrs. Frank Manley (Anna Sophia Atkinson)
+368,YES,3,Moussa, Mrs. (Mantoura Boulos)
+369,YES,3,Jermyn, Miss. Annie
+370,YES,1,Aubart, Mme. Leontine Pauline
+371,YES,1,Harder, Mr. George Achilles
+372,NO,3,Wiklund, Mr. Jakob Alfred
+373,NO,3,Beavan, Mr. William Thomas
+374,NO,1,Ringhini, Mr. Sante
+375,NO,3,Palsson, Miss. Stina Viola
+376,YES,1,Meyer, Mrs. Edgar Joseph (Leila Saks)
+377,YES,3,Landergren, Miss. Aurora Adelia
+378,NO,1,Widener, Mr. Harry Elkins
+379,NO,3,Betros, Mr. Tannous
+380,NO,3,Gustafsson, Mr. Karl Gideon
+381,YES,1,Bidois, Miss. Rosalie
+382,YES,3,Nakid," Miss. Maria (""Mary"")"
+383,NO,3,Tikkanen, Mr. Juho
+384,YES,1,Holverson, Mrs. Alexander Oskar (Mary Aline Towner)
+385,NO,3,Plotcharsky, Mr. Vasil
+386,NO,2,Davies, Mr. Charles Henry
+387,NO,3,Goodwin, Master. Sidney Leonard
+388,YES,2,Buss, Miss. Kate
+389,NO,3,Sadlier, Mr. Matthew
+390,YES,2,Lehmann, Miss. Bertha
+391,YES,1,Carter, Mr. William Ernest
+392,YES,3,Jansson, Mr. Carl Olof
+393,NO,3,Gustafsson, Mr. Johan Birger
+394,YES,1,Newell, Miss. Marjorie
+395,YES,3,Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)
+396,NO,3,Johansson, Mr. Erik
+397,NO,3,Olsson, Miss. Elina
+398,NO,2,McKane, Mr. Peter David
+399,NO,2,Pain, Dr. Alfred
+400,YES,2,Trout, Mrs. William H (Jessie L)
+401,YES,3,Niskanen, Mr. Juha
+402,NO,3,Adams, Mr. John
+403,NO,3,Jussila, Miss. Mari Aina
+404,NO,3,Hakkarainen, Mr. Pekka Pietari
+405,NO,3,Oreskovic, Miss. Marija
+406,NO,2,Gale, Mr. Shadrach
+407,NO,3,Widegren, Mr. Carl/Charles Peter
+408,YES,2,Richards, Master. William Rowe
+409,NO,3,Birkeland, Mr. Hans Martin Monsen
+410,NO,3,Lefebre, Miss. Ida
+411,NO,3,Sdycoff, Mr. Todor
+412,NO,3,Hart, Mr. Henry
+413,YES,1,Minahan, Miss. Daisy E
+414,NO,2,Cunningham, Mr. Alfred Fleming
+415,YES,3,Sundman, Mr. Johan Julian
+416,NO,3,Meek, Mrs. Thomas (Annie Louise Rowley)
+417,YES,2,Drew, Mrs. James Vivian (Lulu Thorne Christian)
+418,YES,2,Silven, Miss. Lyyli Karoliina
+419,NO,2,Matthews, Mr. William John
+420,NO,3,Van Impe, Miss. Catharina
+421,NO,3,Gheorgheff, Mr. Stanio
+422,NO,3,Charters, Mr. David
+423,NO,3,Zimmerman, Mr. Leo
+424,NO,3,Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)
+425,NO,3,Rosblom, Mr. Viktor Richard
+426,NO,3,Wiseman, Mr. Phillippe
+427,YES,2,Clarke, Mrs. Charles V (Ada Maria Winfield)
+428,YES,2,Phillips," Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"
+429,NO,3,Flynn, Mr. James
+430,YES,3,Pickard, Mr. Berk (Berk Trembisky)
+431,YES,1,Bjornstrom-Steffansson, Mr. Mauritz Hakan
+432,YES,3,Thorneycroft, Mrs. Percival (Florence Kate White)
+433,YES,2,Louch, Mrs. Charles Alexander (Alice Adelaide Slow)
+434,NO,3,Kallio, Mr. Nikolai Erland
+435,NO,1,Silvey, Mr. William Baird
+436,YES,1,Carter, Miss. Lucile Polk
+437,NO,3,Ford," Miss. Doolina Margaret ""Daisy"""
+438,YES,2,Richards, Mrs. Sidney (Emily Hocking)
+439,NO,1,Fortune, Mr. Mark
+440,NO,2,Kvillner, Mr. Johan Henrik Johannesson
+441,YES,2,Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+442,NO,3,Hampe, Mr. Leon
+443,NO,3,Petterson, Mr. Johan Emil
+444,YES,2,Reynaldo, Ms. Encarnacion
+445,YES,3,Johannesen-Bratthammer, Mr. Bernt
+446,YES,1,Dodge, Master. Washington
+447,YES,2,Mellinger, Miss. Madeleine Violet
+448,YES,1,Seward, Mr. Frederic Kimber
+449,YES,3,Baclini, Miss. Marie Catherine
+450,YES,1,Peuchen, Major. Arthur Godfrey
+451,NO,2,West, Mr. Edwy Arthur
+452,NO,3,Hagland, Mr. Ingvald Olai Olsen
+453,NO,1,Foreman, Mr. Benjamin Laventall
+454,YES,1,Goldenberg, Mr. Samuel L
+455,NO,3,Peduzzi, Mr. Joseph
+456,YES,3,Jalsevac, Mr. Ivan
+457,NO,1,Millet, Mr. Francis Davis
+458,YES,1,Kenyon, Mrs. Frederick R (Marion)
+459,YES,2,Toomey, Miss. Ellen
+460,NO,3,O'Connor, Mr. Maurice
+461,YES,1,Anderson, Mr. Harry
+462,NO,3,Morley, Mr. William
+463,NO,1,Gee, Mr. Arthur H
+464,NO,2,Milling, Mr. Jacob Christian
+465,NO,3,Maisner, Mr. Simon
+466,NO,3,Goncalves, Mr. Manuel Estanslas
+467,NO,2,Campbell, Mr. William
+468,NO,1,Smart, Mr. John Montgomery
+469,NO,3,Scanlan, Mr. James
+470,YES,3,Baclini, Miss. Helene Barbara
+471,NO,3,Keefe, Mr. Arthur
+472,NO,3,Cacic, Mr. Luka
+473,YES,2,West, Mrs. Edwy Arthur (Ada Mary Worth)
+474,YES,2,Jerwan, Mrs. Amin S (Marie Marthe Thuillard)
+475,NO,3,Strandberg, Miss. Ida Sofia
+476,NO,1,Clifford, Mr. George Quincy
+477,NO,2,Renouf, Mr. Peter Henry
+478,NO,3,Braund, Mr. Lewis Richard
+479,NO,3,Karlsson, Mr. Nils August
+480,YES,3,Hirvonen, Miss. Hildur E
+481,NO,3,Goodwin, Master. Harold Victor
+482,NO,2,Frost," Mr. Anthony Wood ""Archie"""
+483,NO,3,Rouse, Mr. Richard Henry
+484,YES,3,Turkula, Mrs. (Hedwig)
+485,YES,1,Bishop, Mr. Dickinson H
+486,NO,3,Lefebre, Miss. Jeannie
+487,YES,1,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)
+488,NO,1,Kent, Mr. Edward Austin
+489,NO,3,Somerton, Mr. Francis William
+490,YES,3,Coutts," Master. Eden Leslie ""Neville"""
+491,NO,3,Hagland, Mr. Konrad Mathias Reiersen
+492,NO,3,Windelov, Mr. Einar
+493,NO,1,Molson, Mr. Harry Markland
+494,NO,1,Artagaveytia, Mr. Ramon
+495,NO,3,Stanley, Mr. Edward Roland
+496,NO,3,Yousseff, Mr. Gerious
+497,YES,1,Eustis, Miss. Elizabeth Mussey
+498,NO,3,Shellard, Mr. Frederick William
+499,NO,1,Allison, Mrs. Hudson J C (Bessie Waldo Daniels)
+500,NO,3,Svensson, Mr. Olof
+501,NO,3,Calic, Mr. Petar
+502,NO,3,Canavan, Miss. Mary
+503,NO,3,O'Sullivan, Miss. Bridget Mary
+504,NO,3,Laitinen, Miss. Kristina Sofia
+505,YES,1,Maioni, Miss. Roberta
+506,NO,1,Penasco y Castellana, Mr. Victor de Satode
+507,YES,2,Quick, Mrs. Frederick Charles (Jane Richards)
+508,YES,1,Bradley," Mr. George (""George Arthur Brayton"")"
+509,NO,3,Olsen, Mr. Henry Margido
+510,YES,3,Lang, Mr. Fang
+511,YES,3,Daly, Mr. Eugene Patrick
+512,NO,3,Webber, Mr. James
+513,YES,1,McGough, Mr. James Robert
+514,YES,1,Rothschild, Mrs. Martin (Elizabeth L. Barrett)
+515,NO,3,Coleff, Mr. Satio
+516,NO,1,Walker, Mr. William Anderson
+517,YES,2,Lemore, Mrs. (Amelia Milley)
+518,NO,3,Ryan, Mr. Patrick
+519,YES,2,Angle," Mrs. William A (Florence ""Mary"" Agnes Hughes)"
+520,NO,3,Pavlovic, Mr. Stefo
+521,YES,1,Perreault, Miss. Anne
+522,NO,3,Vovk, Mr. Janko
+523,NO,3,Lahoud, Mr. Sarkis
+524,YES,1,Hippach, Mrs. Louis Albert (Ida Sophia Fischer)
+525,NO,3,Kassem, Mr. Fared
+526,NO,3,Farrell, Mr. James
+527,YES,2,Ridsdale, Miss. Lucy
+528,NO,1,Farthing, Mr. John
+529,NO,3,Salonen, Mr. Johan Werner
+530,NO,2,Hocking, Mr. Richard George
+531,YES,2,Quick, Miss. Phyllis May
+532,NO,3,Toufik, Mr. Nakli
+533,NO,3,Elias, Mr. Joseph Jr
+534,YES,3,Peter, Mrs. Catherine (Catherine Rizk)
+535,NO,3,Cacic, Miss. Marija
+536,YES,2,Hart, Miss. Eva Miriam
+537,NO,1,Butt, Major. Archibald Willingham
+538,YES,1,LeRoy, Miss. Bertha
+539,NO,3,Risien, Mr. Samuel Beard
+540,YES,1,Frolicher, Miss. Hedwig Margaritha
+541,YES,1,Crosby, Miss. Harriet R
+542,NO,3,Andersson, Miss. Ingeborg Constanzia
+543,NO,3,Andersson, Miss. Sigrid Elisabeth
+544,YES,2,Beane, Mr. Edward
+545,NO,1,Douglas, Mr. Walter Donald
+546,NO,1,Nicholson, Mr. Arthur Ernest
+547,YES,2,Beane, Mrs. Edward (Ethel Clarke)
+548,YES,2,Padro y Manent, Mr. Julian
+549,NO,3,Goldsmith, Mr. Frank John
+550,YES,2,Davies, Master. John Morgan Jr
+551,YES,1,Thayer, Mr. John Borland Jr
+552,NO,2,Sharp, Mr. Percival James R
+553,NO,3,O'Brien, Mr. Timothy
+554,YES,3,Leeni," Mr. Fahim (""Philip Zenni"")"
+555,YES,3,Ohman, Miss. Velin
+556,NO,1,Wright, Mr. George
+557,YES,1,Duff Gordon," Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")"
+558,NO,1,Robbins, Mr. Victor
+559,YES,1,Taussig, Mrs. Emil (Tillie Mandelbaum)
+560,YES,3,de Messemaeker, Mrs. Guillaume Joseph (Emma)
+561,NO,3,Morrow, Mr. Thomas Rowan
+562,NO,3,Sivic, Mr. Husein
+563,NO,2,Norman, Mr. Robert Douglas
+564,NO,3,Simmons, Mr. John
+565,NO,3,Meanwell, Miss. (Marion Ogden)
+566,NO,3,Davies, Mr. Alfred J
+567,NO,3,Stoytcheff, Mr. Ilia
+568,NO,3,Palsson, Mrs. Nils (Alma Cornelia Berglund)
+569,NO,3,Doharr, Mr. Tannous
+570,YES,3,Jonsson, Mr. Carl
+571,YES,2,Harris, Mr. George
+572,YES,1,Appleton, Mrs. Edward Dale (Charlotte Lamson)
+573,YES,1,Flynn," Mr. John Irwin (""Irving"")"
+574,YES,3,Kelly, Miss. Mary
+575,NO,3,Rush, Mr. Alfred George John
+576,NO,3,Patchett, Mr. George
+577,YES,2,Garside, Miss. Ethel
+578,YES,1,Silvey, Mrs. William Baird (Alice Munger)
+579,NO,3,Caram, Mrs. Joseph (Maria Elias)
+580,YES,3,Jussila, Mr. Eiriik
+581,YES,2,Christy, Miss. Julie Rachel
+582,YES,1,Thayer, Mrs. John Borland (Marian Longstreth Morris)
+583,NO,2,Downton, Mr. William James
+584,NO,1,Ross, Mr. John Hugo
+585,NO,3,Paulner, Mr. Uscher
+586,YES,1,Taussig, Miss. Ruth
+587,NO,2,Jarvis, Mr. John Denzil
+588,YES,1,Frolicher-Stehli, Mr. Maxmillian
+589,NO,3,Gilinski, Mr. Eliezer
+590,NO,3,Murdlin, Mr. Joseph
+591,NO,3,Rintamaki, Mr. Matti
+592,YES,1,Stephenson, Mrs. Walter Bertram (Martha Eustis)
+593,NO,3,Elsbury, Mr. William James
+594,NO,3,Bourke, Miss. Mary
+595,NO,2,Chapman, Mr. John Henry
+596,NO,3,Van Impe, Mr. Jean Baptiste
+597,YES,2,Leitch, Miss. Jessie Wills
+598,NO,3,Johnson, Mr. Alfred
+599,NO,3,Boulos, Mr. Hanna
+600,YES,1,Duff Gordon," Sir. Cosmo Edmund (""Mr Morgan"")"
+601,YES,2,Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)
+602,NO,3,Slabenoff, Mr. Petco
+603,NO,1,Harrington, Mr. Charles H
+604,NO,3,Torber, Mr. Ernst William
+605,YES,1,Homer," Mr. Harry (""Mr E Haven"")"
+606,NO,3,Lindell, Mr. Edvard Bengtsson
+607,NO,3,Karaic, Mr. Milan
+608,YES,1,Daniel, Mr. Robert Williams
+609,YES,2,Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)
+610,YES,1,Shutes, Miss. Elizabeth W
+611,NO,3,Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+612,NO,3,Jardin, Mr. Jose Neto
+613,YES,3,Murphy, Miss. Margaret Jane
+614,NO,3,Horgan, Mr. John
+615,NO,3,Brocklebank, Mr. William Alfred
+616,YES,2,Herman, Miss. Alice
+617,NO,3,Danbom, Mr. Ernst Gilbert
+618,NO,3,Lobb, Mrs. William Arthur (Cordelia K Stanlick)
+619,YES,2,Becker, Miss. Marion Louise
+620,NO,2,Gavey, Mr. Lawrence
+621,NO,3,Yasbeck, Mr. Antoni
+622,YES,1,Kimball, Mr. Edwin Nelson Jr
+623,YES,3,Nakid, Mr. Sahid
+624,NO,3,Hansen, Mr. Henry Damsgaard
+625,NO,3,Bowen," Mr. David John ""Dai"""
+626,NO,1,Sutton, Mr. Frederick
+627,NO,2,Kirkland, Rev. Charles Leonard
+628,YES,1,Longley, Miss. Gretchen Fiske
+629,NO,3,Bostandyeff, Mr. Guentcho
+630,NO,3,O'Connell, Mr. Patrick D
+631,YES,1,Barkworth, Mr. Algernon Henry Wilson
+632,NO,3,Lundahl, Mr. Johan Svensson
+633,YES,1,Stahelin-Maeglin, Dr. Max
+634,NO,1,Parr, Mr. William Henry Marsh
+635,NO,3,Skoog, Miss. Mabel
+636,YES,2,Davis, Miss. Mary
+637,NO,3,Leinonen, Mr. Antti Gustaf
+638,NO,2,Collyer, Mr. Harvey
+639,NO,3,Panula, Mrs. Juha (Maria Emilia Ojala)
+640,NO,3,Thorneycroft, Mr. Percival
+641,NO,3,Jensen, Mr. Hans Peder
+642,YES,1,Sagesser, Mlle. Emma
+643,NO,3,Skoog, Miss. Margit Elizabeth
+644,YES,3,Foo, Mr. Choong
+645,YES,3,Baclini, Miss. Eugenie
+646,YES,1,Harper, Mr. Henry Sleeper
+647,NO,3,Cor, Mr. Liudevit
+648,YES,1,Simonius-Blumer, Col. Oberst Alfons
+649,NO,3,Willey, Mr. Edward
+650,YES,3,Stanley, Miss. Amy Zillah Elsie
+651,NO,3,Mitkoff, Mr. Mito
+652,YES,2,Doling, Miss. Elsie
+653,NO,3,Kalvik, Mr. Johannes Halvorsen
+654,YES,3,O'Leary," Miss. Hanora ""Norah"""
+655,NO,3,Hegarty," Miss. Hanora ""Nora"""
+656,NO,2,Hickman, Mr. Leonard Mark
+657,NO,3,Radeff, Mr. Alexander
+658,NO,3,Bourke, Mrs. John (Catherine)
+659,NO,2,Eitemiller, Mr. George Floyd
+660,NO,1,Newell, Mr. Arthur Webster
+661,YES,1,Frauenthal, Dr. Henry William
+662,NO,3,Badt, Mr. Mohamed
+663,NO,1,Colley, Mr. Edward Pomeroy
+664,NO,3,Coleff, Mr. Peju
+665,YES,3,Lindqvist, Mr. Eino William
+666,NO,2,Hickman, Mr. Lewis
+667,NO,2,Butler, Mr. Reginald Fenton
+668,NO,3,Rommetvedt, Mr. Knud Paust
+669,NO,3,Cook, Mr. Jacob
+670,YES,1,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)
+671,YES,2,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+672,NO,1,Davidson, Mr. Thornton
+673,NO,2,Mitchell, Mr. Henry Michael
+674,YES,2,Wilhelms, Mr. Charles
+675,NO,2,Watson, Mr. Ennis Hastings
+676,NO,3,Edvardsson, Mr. Gustaf Hjalmar
+677,NO,3,Sawyer, Mr. Frederick Charles
+678,YES,3,Turja, Miss. Anna Sofia
+679,NO,3,Goodwin, Mrs. Frederick (Augusta Tyler)
+680,YES,1,Cardeza, Mr. Thomas Drake Martinez
+681,NO,3,Peters, Miss. Katie
+682,YES,1,Hassab, Mr. Hammad
+683,NO,3,Olsvigen, Mr. Thor Anderson
+684,NO,3,Goodwin, Mr. Charles Edward
+685,NO,2,Brown, Mr. Thomas William Solomon
+686,NO,2,Laroche, Mr. Joseph Philippe Lemercier
+687,NO,3,Panula, Mr. Jaako Arnold
+688,NO,3,Dakic, Mr. Branko
+689,NO,3,Fischer, Mr. Eberhard Thelander
+690,YES,1,Madill, Miss. Georgette Alexandra
+691,YES,1,Dick, Mr. Albert Adrian
+692,YES,3,Karun, Miss. Manca
+693,YES,3,Lam, Mr. Ali
+694,NO,3,Saad, Mr. Khalil
+695,NO,1,Weir, Col. John
+696,NO,2,Chapman, Mr. Charles Henry
+697,NO,3,Kelly, Mr. James
+698,YES,3,Mullens," Miss. Katherine ""Katie"""
+699,NO,1,Thayer, Mr. John Borland
+700,NO,3,Humblen, Mr. Adolf Mathias Nicolai Olsen
+701,YES,1,Astor, Mrs. John Jacob (Madeleine Talmadge Force)
+702,YES,1,Silverthorne, Mr. Spencer Victor
+703,NO,3,Barbara, Miss. Saiide
+704,NO,3,Gallagher, Mr. Martin
+705,NO,3,Hansen, Mr. Henrik Juul
+706,NO,2,Morley," Mr. Henry Samuel (""Mr Henry Marshall"")"
+707,YES,2,Kelly," Mrs. Florence ""Fannie"""
+708,YES,1,Calderhead, Mr. Edward Pennington
+709,YES,1,Cleaver, Miss. Alice
+710,YES,3,Moubarek," Master. Halim Gonios (""William George"")"
+711,YES,1,Mayne," Mlle. Berthe Antonine (""Mrs de Villiers"")"
+712,NO,1,Klaber, Mr. Herman
+713,YES,1,Taylor, Mr. Elmer Zebley
+714,NO,3,Larsson, Mr. August Viktor
+715,NO,2,Greenberg, Mr. Samuel
+716,NO,3,Soholt, Mr. Peter Andreas Lauritz Andersen
+717,YES,1,Endres, Miss. Caroline Louise
+718,YES,2,Troutt," Miss. Edwina Celia ""Winnie"""
+719,NO,3,McEvoy, Mr. Michael
+720,NO,3,Johnson, Mr. Malkolm Joackim
+721,YES,2,Harper," Miss. Annie Jessie ""Nina"""
+722,NO,3,Jensen, Mr. Svend Lauritz
+723,NO,2,Gillespie, Mr. William Henry
+724,NO,2,Hodges, Mr. Henry Price
+725,YES,1,Chambers, Mr. Norman Campbell
+726,NO,3,Oreskovic, Mr. Luka
+727,YES,2,Renouf, Mrs. Peter Henry (Lillian Jefferys)
+728,YES,3,Mannion, Miss. Margareth
+729,NO,2,Bryhl, Mr. Kurt Arnold Gottfrid
+730,NO,3,Ilmakangas, Miss. Pieta Sofia
+731,YES,1,Allen, Miss. Elisabeth Walton
+732,NO,3,Hassan, Mr. Houssein G N
+733,NO,2,Knight, Mr. Robert J
+734,NO,2,Berriman, Mr. William John
+735,NO,2,Troupiansky, Mr. Moses Aaron
+736,NO,3,Williams, Mr. Leslie
+737,NO,3,Ford, Mrs. Edward (Margaret Ann Watson)
+738,YES,1,Lesurer, Mr. Gustave J
+739,NO,3,Ivanoff, Mr. Kanio
+740,NO,3,Nankoff, Mr. Minko
+741,YES,1,Hawksford, Mr. Walter James
+742,NO,1,Cavendish, Mr. Tyrell William
+743,YES,1,Ryerson," Miss. Susan Parker ""Suzette"""
+744,NO,3,McNamee, Mr. Neal
+745,YES,3,Stranden, Mr. Juho
+746,NO,1,Crosby, Capt. Edward Gifford
+747,NO,3,Abbott, Mr. Rossmore Edward
+748,YES,2,Sinkkonen, Miss. Anna
+749,NO,1,Marvin, Mr. Daniel Warner
+750,NO,3,Connaghton, Mr. Michael
+751,YES,2,Wells, Miss. Joan
+752,YES,3,Moor, Master. Meier
+753,NO,3,Vande Velde, Mr. Johannes Joseph
+754,NO,3,Jonkoff, Mr. Lalio
+755,YES,2,Herman, Mrs. Samuel (Jane Laver)
+756,YES,2,Hamalainen, Master. Viljo
+757,NO,3,Carlsson, Mr. August Sigfrid
+758,NO,2,Bailey, Mr. Percy Andrew
+759,NO,3,Theobald, Mr. Thomas Leonard
+760,YES,1,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)
+761,NO,3,Garfirth, Mr. John
+762,NO,3,Nirva, Mr. Iisakki Antino Aijo
+763,YES,3,Barah, Mr. Hanna Assi
+764,YES,1,Carter, Mrs. William Ernest (Lucile Polk)
+765,NO,3,Eklund, Mr. Hans Linus
+766,YES,1,Hogeboom, Mrs. John C (Anna Andrews)
+767,NO,1,Brewe, Dr. Arthur Jackson
+768,NO,3,Mangan, Miss. Mary
+769,NO,3,Moran, Mr. Daniel J
+770,NO,3,Gronnestad, Mr. Daniel Danielsen
+771,NO,3,Lievens, Mr. Rene Aime
+772,NO,3,Jensen, Mr. Niels Peder
+773,NO,2,Mack, Mrs. (Mary)
+774,NO,3,Elias, Mr. Dibo
+775,YES,2,Hocking, Mrs. Elizabeth (Eliza Needs)
+776,NO,3,Myhrman, Mr. Pehr Fabian Oliver Malkolm
+777,NO,3,Tobin, Mr. Roger
+778,YES,3,Emanuel, Miss. Virginia Ethel
+779,NO,3,Kilgannon, Mr. Thomas J
+780,YES,1,Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)
+781,YES,3,Ayoub, Miss. Banoura
+782,YES,1,Dick, Mrs. Albert Adrian (Vera Gillespie)
+783,NO,1,Long, Mr. Milton Clyde
+784,NO,3,Johnston, Mr. Andrew G
+785,NO,3,Ali, Mr. William
+786,NO,3,Harmer, Mr. Abraham (David Lishin)
+787,YES,3,Sjoblom, Miss. Anna Sofia
+788,NO,3,Rice, Master. George Hugh
+789,YES,3,Dean, Master. Bertram Vere
+790,NO,1,Guggenheim, Mr. Benjamin
+791,NO,3,Keane," Mr. Andrew ""Andy"""
+792,NO,2,Gaskell, Mr. Alfred
+793,NO,3,Sage, Miss. Stella Anna
+794,NO,1,Hoyt, Mr. William Fisher
+795,NO,3,Dantcheff, Mr. Ristiu
+796,NO,2,Otter, Mr. Richard
+797,YES,1,Leader, Dr. Alice (Farnham)
+798,YES,3,Osman, Mrs. Mara
+799,NO,3,Ibrahim Shawah, Mr. Yousseff
+800,NO,3,Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+801,NO,2,Ponesell, Mr. Martin
+802,YES,2,Collyer, Mrs. Harvey (Charlotte Annie Tate)
+803,YES,1,Carter, Master. William Thornton II
+804,YES,3,Thomas, Master. Assad Alexander
+805,YES,3,Hedman, Mr. Oskar Arvid
+806,NO,3,Johansson, Mr. Karl Johan
+807,NO,1,Andrews, Mr. Thomas Jr
+808,NO,3,Pettersson, Miss. Ellen Natalia
+809,NO,2,Meyer, Mr. August
+810,YES,1,Chambers, Mrs. Norman Campbell (Bertha Griggs)
+811,NO,3,Alexander, Mr. William
+812,NO,3,Lester, Mr. James
+813,NO,2,Slemen, Mr. Richard James
+814,NO,3,Andersson, Miss. Ebba Iris Alfrida
+815,NO,3,Tomlin, Mr. Ernest Portage
+816,NO,1,Fry, Mr. Richard
+817,NO,3,Heininen, Miss. Wendla Maria
+818,NO,2,Mallet, Mr. Albert
+819,NO,3,Holm, Mr. John Fredrik Alexander
+820,NO,3,Skoog, Master. Karl Thorsten
+821,YES,1,Hays, Mrs. Charles Melville (Clara Jennings Gregg)
+822,YES,3,Lulic, Mr. Nikola
+823,NO,1,Reuchlin, Jonkheer. John George
+824,YES,3,Moor, Mrs. (Beila)
+825,NO,3,Panula, Master. Urho Abraham
+826,NO,3,Flynn, Mr. John
+827,NO,3,Lam, Mr. Len
+828,YES,2,Mallet, Master. Andre
+829,YES,3,McCormack, Mr. Thomas Joseph
+830,YES,1,Stone, Mrs. George Nelson (Martha Evelyn)
+831,YES,3,Yasbeck, Mrs. Antoni (Selini Alexander)
+832,YES,2,Richards, Master. George Sibley
+833,NO,3,Saad, Mr. Amin
+834,NO,3,Augustsson, Mr. Albert
+835,NO,3,Allum, Mr. Owen George
+836,YES,1,Compton, Miss. Sara Rebecca
+837,NO,3,Pasic, Mr. Jakob
+838,NO,3,Sirota, Mr. Maurice
+839,YES,3,Chip, Mr. Chang
+840,YES,1,Marechal, Mr. Pierre
+841,NO,3,Alhomaki, Mr. Ilmari Rudolf
+842,NO,2,Mudd, Mr. Thomas Charles
+843,YES,1,Serepeca, Miss. Augusta
+844,NO,3,Lemberopolous, Mr. Peter L
+845,NO,3,Culumovic, Mr. Jeso
+846,NO,3,Abbing, Mr. Anthony
+847,NO,3,Sage, Mr. Douglas Bullen
+848,NO,3,Markoff, Mr. Marin
+849,NO,2,Harper, Rev. John
+850,YES,1,Goldenberg, Mrs. Samuel L (Edwiga Grabowska)
+851,NO,3,Andersson, Master. Sigvard Harald Elias
+852,NO,3,Svensson, Mr. Johan
+853,NO,3,Boulos, Miss. Nourelain
+854,YES,1,Lines, Miss. Mary Conover
+855,NO,2,Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+856,YES,3,Aks, Mrs. Sam (Leah Rosen)
+857,YES,1,Wick, Mrs. George Dennick (Mary Hitchcock)
+858,YES,1,Daly, Mr. Peter Denis 
+859,YES,3,Baclini, Mrs. Solomon (Latifa Qurban)
+860,NO,3,Razi, Mr. Raihed
+861,NO,3,Hansen, Mr. Claus Peter
+862,NO,2,Giles, Mr. Frederick Edward
+863,YES,1,Swift, Mrs. Frederick Joel (Margaret Welles Barron)
+864,NO,3,Sage," Miss. Dorothy Edith ""Dolly"""
+865,NO,2,Gill, Mr. John William
+866,YES,2,Bystrom, Mrs. (Karolina)
+867,YES,2,Duran y More, Miss. Asuncion
+868,NO,1,Roebling, Mr. Washington Augustus II
+869,NO,3,van Melkebeke, Mr. Philemon
+870,YES,3,Johnson, Master. Harold Theodor
+871,NO,3,Balkic, Mr. Cerin
+872,YES,1,Beckwith, Mrs. Richard Leonard (Sallie Monypeny)
+873,NO,1,Carlsson, Mr. Frans Olof
+874,NO,3,Vander Cruyssen, Mr. Victor
+875,YES,2,Abelson, Mrs. Samuel (Hannah Wizosky)
+876,YES,3,Najib," Miss. Adele Kiamie ""Jane"""
+877,NO,3,Gustafsson, Mr. Alfred Ossian
+878,NO,3,Petroff, Mr. Nedelio
+879,NO,3,Laleff, Mr. Kristo
+880,YES,1,Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)
+881,YES,2,Shelley, Mrs. William (Imanita Parrish Hall)
+882,NO,3,Markun, Mr. Johann
+883,NO,3,Dahlberg, Miss. Gerda Ulrika
+884,NO,2,Banfield, Mr. Frederick James
+885,NO,3,Sutehall, Mr. Henry Jr
+886,NO,3,Rice, Mrs. William (Margaret Norton)
+887,NO,2,Montvila, Rev. Juozas
+888,YES,1,Graham, Miss. Margaret Edith
+889,NO,3,Johnston," Miss. Catherine Helen ""Carrie"""
+890,YES,1,Behr, Mr. Karl Howell
+891,NO,3,Dooley, Mr. Patrick
+892,NO,3,Kelly, Mr. James
+893,NO,3,Wilkes, Mrs. James (Ellen Needs)
+894,NO,2,Myles, Mr. Thomas Francis
+895,NO,3,Wirz, Mr. Albert
+896,NO,3,Hirvonen, Mrs. Alexander (Helga E Lindqvist)
+897,NO,3,Svensson, Mr. Johan Cervin
+898,NO,3,Connolly, Miss. Kate
+899,NO,2,Caldwell, Mr. Albert Francis
+900,NO,3,Abrahim, Mrs. Joseph (Sophie Halaut Easu)
+901,NO,3,Davies, Mr. John Samuel
+902,NO,3,Ilieff, Mr. Ylio
+903,NO,1,Jones, Mr. Charles Cresson
+904,NO,1,Snyder, Mrs. John Pillsbury (Nelle Stevenson)
+905,NO,2,Howard, Mr. Benjamin
+906,NO,1,Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)
+907,NO,2,del Carlo, Mrs. Sebastiano (Argenia Genovesi)
+908,NO,2,Keane, Mr. Daniel
+909,NO,3,Assaf, Mr. Gerios
+910,NO,3,Ilmakangas, Miss. Ida Livija
+911,NO,3,Assaf Khalil," Mrs. Mariana (Miriam"")"""
+912,NO,1,Rothschild, Mr. Martin
+913,NO,3,Olsen, Master. Artur Karl
+914,NO,1,Flegenheim, Mrs. Alfred (Antoinette)
+915,NO,1,Williams, Mr. Richard Norris II
+916,NO,1,Ryerson, Mrs. Arthur Larned (Emily Maria Borie)
+917,NO,3,Robins, Mr. Alexander A
+918,NO,1,Ostby, Miss. Helene Ragnhild
+919,NO,3,Daher, Mr. Shedid
+920,NO,1,Brady, Mr. John Bertram
+921,NO,3,Samaan, Mr. Elias
+922,NO,2,Louch, Mr. Charles Alexander
+923,NO,2,Jefferys, Mr. Clifford Thomas
+924,NO,3,Dean, Mrs. Bertram (Eva Georgetta Light)
+925,NO,3,Johnston," Mrs. Andrew G (Elizabeth Lily"" Watson)"""
+926,NO,1,Mock, Mr. Philipp Edmund
+927,NO,3,Katavelas," Mr. Vassilios (Catavelas Vassilios"")"""
+928,NO,3,Roth, Miss. Sarah A
+929,NO,3,Cacic, Miss. Manda
+930,NO,3,Sap, Mr. Julius
+931,NO,3,Hee, Mr. Ling
+932,NO,3,Karun, Mr. Franz
+933,NO,1,Franklin, Mr. Thomas Parham
+934,NO,3,Goldsmith, Mr. Nathan
+935,NO,2,Corbett, Mrs. Walter H (Irene Colvin)
+936,NO,1,Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)
+937,NO,3,Peltomaki, Mr. Nikolai Johannes
+938,NO,1,Chevre, Mr. Paul Romaine
+939,NO,3,Shaughnessy, Mr. Patrick
+940,NO,1,Bucknell, Mrs. William Robert (Emma Eliza Ward)
+941,NO,3,Coutts," Mrs. William (Winnie Minnie"" Treanor)"""
+942,NO,1,Smith, Mr. Lucien Philip
+943,NO,2,Pulbaum, Mr. Franz
+944,NO,2,Hocking," Miss. Ellen Nellie"""""
+945,NO,1,Fortune, Miss. Ethel Flora
+946,NO,2,Mangiavacchi, Mr. Serafino Emilio
+947,NO,3,Rice, Master. Albert
+948,NO,3,Cor, Mr. Bartol
+949,NO,3,Abelseth, Mr. Olaus Jorgensen
+950,NO,3,Davison, Mr. Thomas Henry
+951,NO,1,Chaudanson, Miss. Victorine
+952,NO,3,Dika, Mr. Mirko
+953,NO,2,McCrae, Mr. Arthur Gordon
+954,NO,3,Bjorklund, Mr. Ernst Herbert
+955,NO,3,Bradley, Miss. Bridget Delia
+956,NO,1,Ryerson, Master. John Borie
+957,NO,2,Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)
+958,NO,3,Burns, Miss. Mary Delia
+959,NO,1,Moore, Mr. Clarence Bloomfield
+960,NO,1,Tucker, Mr. Gilbert Milligan Jr
+961,NO,1,Fortune, Mrs. Mark (Mary McDougald)
+962,NO,3,Mulvihill, Miss. Bertha E
+963,NO,3,Minkoff, Mr. Lazar
+964,NO,3,Nieminen, Miss. Manta Josefina
+965,NO,1,Ovies y Rodriguez, Mr. Servando
+966,NO,1,Geiger, Miss. Amalie
+967,NO,1,Keeping, Mr. Edwin
+968,NO,3,Miles, Mr. Frank
+969,NO,1,Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)
+970,NO,2,Aldworth, Mr. Charles Augustus
+971,NO,3,Doyle, Miss. Elizabeth
+972,NO,3,Boulos, Master. Akar
+973,NO,1,Straus, Mr. Isidor
+974,NO,1,Case, Mr. Howard Brown
+975,NO,3,Demetri, Mr. Marinko
+976,NO,2,Lamb, Mr. John Joseph
+977,NO,3,Khalil, Mr. Betros
+978,NO,3,Barry, Miss. Julia
+979,NO,3,Badman, Miss. Emily Louisa
+980,NO,3,O'Donoghue, Ms. Bridget
+981,NO,2,Wells, Master. Ralph Lester
+982,NO,3,Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)
+983,NO,3,Pedersen, Mr. Olaf
+984,NO,1,Davidson, Mrs. Thornton (Orian Hays)
+985,NO,3,Guest, Mr. Robert
+986,NO,1,Birnbaum, Mr. Jakob
+987,NO,3,Tenglin, Mr. Gunnar Isidor
+988,NO,1,Cavendish, Mrs. Tyrell William (Julia Florence Siegel)
+989,NO,3,Makinen, Mr. Kalle Edvard
+990,NO,3,Braf, Miss. Elin Ester Maria
+991,NO,3,Nancarrow, Mr. William Henry
+992,NO,1,Stengel, Mrs. Charles Emil Henry (Annie May Morris)
+993,NO,2,Weisz, Mr. Leopold
+994,NO,3,Foley, Mr. William
+995,NO,3,Johansson Palmquist, Mr. Oskar Leander
+996,NO,3,Thomas," Mrs. Alexander (Thamine Thelma"")"""
+997,NO,3,Holthen, Mr. Johan Martin
+998,NO,3,Buckley, Mr. Daniel
+999,NO,3,Ryan, Mr. Edward
+1000,NO,3,Willer," Mr. Aaron (Abi Weller"")"""
+1001,NO,2,Swane, Mr. George
+1002,NO,2,Stanton, Mr. Samuel Ward
+1003,NO,3,Shine, Miss. Ellen Natalia
+1004,NO,1,Evans, Miss. Edith Corse
+1005,NO,3,Buckley, Miss. Katherine
+1006,NO,1,Straus, Mrs. Isidor (Rosalie Ida Blun)
+1007,NO,3,Chronopoulos, Mr. Demetrios
+1008,NO,3,Thomas, Mr. John
+1009,NO,3,Sandstrom, Miss. Beatrice Irene
+1010,NO,1,Beattie, Mr. Thomson
+1011,NO,2,Chapman, Mrs. John Henry (Sara Elizabeth Lawry)
+1012,NO,2,Watt, Miss. Bertha J
+1013,NO,3,Kiernan, Mr. John
+1014,NO,1,Schabert, Mrs. Paul (Emma Mock)
+1015,NO,3,Carver, Mr. Alfred John
+1016,NO,3,Kennedy, Mr. John
+1017,NO,3,Cribb, Miss. Laura Alice
+1018,NO,3,Brobeck, Mr. Karl Rudolf
+1019,NO,3,McCoy, Miss. Alicia
+1020,NO,2,Bowenur, Mr. Solomon
+1021,NO,3,Petersen, Mr. Marius
+1022,NO,3,Spinner, Mr. Henry John
+1023,NO,1,Gracie, Col. Archibald IV
+1024,NO,3,Lefebre, Mrs. Frank (Frances)
+1025,NO,3,Thomas, Mr. Charles P
+1026,NO,3,Dintcheff, Mr. Valtcho
+1027,NO,3,Carlsson, Mr. Carl Robert
+1028,NO,3,Zakarian, Mr. Mapriededer
+1029,NO,2,Schmidt, Mr. August
+1030,NO,3,Drapkin, Miss. Jennie
+1031,NO,3,Goodwin, Mr. Charles Frederick
+1032,NO,3,Goodwin, Miss. Jessie Allis
+1033,NO,1,Daniels, Miss. Sarah
+1034,NO,1,Ryerson, Mr. Arthur Larned
+1035,NO,2,Beauchamp, Mr. Henry James
+1036,NO,1,Lindeberg-Lind," Mr. Erik Gustaf (Mr Edward Lingrey"")"""
+1037,NO,3,Vander Planke, Mr. Julius
+1038,NO,1,Hilliard, Mr. Herbert Henry
+1039,NO,3,Davies, Mr. Evan
+1040,NO,1,Crafton, Mr. John Bertram
+1041,NO,2,Lahtinen, Rev. William
+1042,NO,1,Earnshaw, Mrs. Boulton (Olive Potter)
+1043,NO,3,Matinoff, Mr. Nicola
+1044,NO,3,Storey, Mr. Thomas
+1045,NO,3,Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)
+1046,NO,3,Asplund, Master. Filip Oscar
+1047,NO,3,Duquemin, Mr. Joseph
+1048,NO,1,Bird, Miss. Ellen
+1049,NO,3,Lundin, Miss. Olga Elida
+1050,NO,1,Borebank, Mr. John James
+1051,NO,3,Peacock, Mrs. Benjamin (Edith Nile)
+1052,NO,3,Smyth, Miss. Julia
+1053,NO,3,Touma, Master. Georges Youssef
+1054,NO,2,Wright, Miss. Marion
+1055,NO,3,Pearce, Mr. Ernest
+1056,NO,2,Peruschitz, Rev. Joseph Maria
+1057,NO,3,Kink-Heilmann, Mrs. Anton (Luise Heilmann)
+1058,NO,1,Brandeis, Mr. Emil
+1059,NO,3,Ford, Mr. Edward Watson
+1060,NO,1,Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)
+1061,NO,3,Hellstrom, Miss. Hilda Maria
+1062,NO,3,Lithman, Mr. Simon
+1063,NO,3,Zakarian, Mr. Ortin
+1064,NO,3,Dyker, Mr. Adolf Fredrik
+1065,NO,3,Torfa, Mr. Assad
+1066,NO,3,Asplund, Mr. Carl Oscar Vilhelm Gustafsson
+1067,NO,2,Brown, Miss. Edith Eileen
+1068,NO,2,Sincock, Miss. Maude
+1069,NO,1,Stengel, Mr. Charles Emil Henry
+1070,NO,2,Becker, Mrs. Allen Oliver (Nellie E Baumgardner)
+1071,NO,1,Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)
+1072,NO,2,McCrie, Mr. James Matthew
+1073,NO,1,Compton, Mr. Alexander Taylor Jr
+1074,NO,1,Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)
+1075,NO,3,Lane, Mr. Patrick
+1076,NO,1,Douglas, Mrs. Frederick Charles (Mary Helene Baxter)
+1077,NO,2,Maybery, Mr. Frank Hubert
+1078,NO,2,Phillips, Miss. Alice Frances Louisa
+1079,NO,3,Davies, Mr. Joseph
+1080,NO,3,Sage, Miss. Ada
+1081,NO,2,Veal, Mr. James
+1082,NO,2,Angle, Mr. William A
+1083,NO,1,Salomon, Mr. Abraham L
+1084,NO,3,van Billiard, Master. Walter John
+1085,NO,2,Lingane, Mr. John
+1086,NO,2,Drew, Master. Marshall Brines
+1087,NO,3,Karlsson, Mr. Julius Konrad Eugen
+1088,NO,1,Spedden, Master. Robert Douglas
+1089,NO,3,Nilsson, Miss. Berta Olivia
+1090,NO,2,Baimbrigge, Mr. Charles Robert
+1091,NO,3,Rasmussen, Mrs. (Lena Jacobsen Solvang)
+1092,NO,3,Murphy, Miss. Nora
+1093,NO,3,Danbom, Master. Gilbert Sigvard Emanuel
+1094,NO,1,Astor, Col. John Jacob
+1095,NO,2,Quick, Miss. Winifred Vera
+1096,NO,2,Andrew, Mr. Frank Thomas
+1097,NO,1,Omont, Mr. Alfred Fernand
+1098,NO,3,McGowan, Miss. Katherine
+1099,NO,2,Collett, Mr. Sidney C Stuart
+1100,NO,1,Rosenbaum, Miss. Edith Louise
+1101,NO,3,Delalic, Mr. Redjo
+1102,NO,3,Andersen, Mr. Albert Karvin
+1103,NO,3,Finoli, Mr. Luigi
+1104,NO,2,Deacon, Mr. Percy William
+1105,NO,2,Howard, Mrs. Benjamin (Ellen Truelove Arman)
+1106,NO,3,Andersson, Miss. Ida Augusta Margareta
+1107,NO,1,Head, Mr. Christopher
+1108,NO,3,Mahon, Miss. Bridget Delia
+1109,NO,1,Wick, Mr. George Dennick
+1110,NO,1,Widener, Mrs. George Dunton (Eleanor Elkins)
+1111,NO,3,Thomson, Mr. Alexander Morrison
+1112,NO,2,Duran y More, Miss. Florentina
+1113,NO,3,Reynolds, Mr. Harold J
+1114,NO,2,Cook, Mrs. (Selena Rogers)
+1115,NO,3,Karlsson, Mr. Einar Gervasius
+1116,NO,1,Candee, Mrs. Edward (Helen Churchill Hungerford)
+1117,NO,3,Moubarek," Mrs. George (Omine Amenia"" Alexander)"""
+1118,NO,3,Asplund, Mr. Johan Charles
+1119,NO,3,McNeill, Miss. Bridget
+1120,NO,3,Everett, Mr. Thomas James
+1121,NO,2,Hocking, Mr. Samuel James Metcalfe
+1122,NO,2,Sweet, Mr. George Frederick
+1123,NO,1,Willard, Miss. Constance
+1124,NO,3,Wiklund, Mr. Karl Johan
+1125,NO,3,Linehan, Mr. Michael
+1126,NO,1,Cumings, Mr. John Bradley
+1127,NO,3,Vendel, Mr. Olof Edvin
+1128,NO,1,Warren, Mr. Frank Manley
+1129,NO,3,Baccos, Mr. Raffull
+1130,NO,2,Hiltunen, Miss. Marta
+1131,NO,1,Douglas, Mrs. Walter Donald (Mahala Dutton)
+1132,NO,1,Lindstrom, Mrs. Carl Johan (Sigrid Posse)
+1133,NO,2,Christy, Mrs. (Alice Frances)
+1134,NO,1,Spedden, Mr. Frederic Oakley
+1135,NO,3,Hyman, Mr. Abraham
+1136,NO,3,Johnston," Master. William Arthur Willie"""""
+1137,NO,1,Kenyon, Mr. Frederick R
+1138,NO,2,Karnes, Mrs. J Frank (Claire Bennett)
+1139,NO,2,Drew, Mr. James Vivian
+1140,NO,2,Hold, Mrs. Stephen (Annie Margaret Hill)
+1141,NO,3,Khalil," Mrs. Betros (Zahie Maria"" Elias)"""
+1142,NO,2,West, Miss. Barbara J
+1143,NO,3,Abrahamsson, Mr. Abraham August Johannes
+1144,NO,1,Clark, Mr. Walter Miller
+1145,NO,3,Salander, Mr. Karl Johan
+1146,NO,3,Wenzel, Mr. Linhart
+1147,NO,3,MacKay, Mr. George William
+1148,NO,3,Mahon, Mr. John
+1149,NO,3,Niklasson, Mr. Samuel
+1150,NO,2,Bentham, Miss. Lilian W
+1151,NO,3,Midtsjo, Mr. Karl Albert
+1152,NO,3,de Messemaeker, Mr. Guillaume Joseph
+1153,NO,3,Nilsson, Mr. August Ferdinand
+1154,NO,2,Wells," Mrs. Arthur Henry (Addie"" Dart Trevaskis)"""
+1155,NO,3,Klasen, Miss. Gertrud Emilia
+1156,NO,2,Portaluppi, Mr. Emilio Ilario Giuseppe
+1157,NO,3,Lyntakoff, Mr. Stanko
+1158,NO,1,Chisholm, Mr. Roderick Robert Crispin
+1159,NO,3,Warren, Mr. Charles William
+1160,NO,3,Howard, Miss. May Elizabeth
+1161,NO,3,Pokrnic, Mr. Mate
+1162,NO,1,McCaffry, Mr. Thomas Francis
+1163,NO,3,Fox, Mr. Patrick
+1164,NO,1,Clark, Mrs. Walter Miller (Virginia McDowell)
+1165,NO,3,Lennon, Miss. Mary
+1166,NO,3,Saade, Mr. Jean Nassr
+1167,NO,2,Bryhl, Miss. Dagmar Jenny Ingeborg 
+1168,NO,2,Parker, Mr. Clifford Richard
+1169,NO,2,Faunthorpe, Mr. Harry
+1170,NO,2,Ware, Mr. John James
+1171,NO,2,Oxenham, Mr. Percy Thomas
+1172,NO,3,Oreskovic, Miss. Jelka
+1173,NO,3,Peacock, Master. Alfred Edward
+1174,NO,3,Fleming, Miss. Honora
+1175,NO,3,Touma, Miss. Maria Youssef
+1176,NO,3,Rosblom, Miss. Salli Helena
+1177,NO,3,Dennis, Mr. William
+1178,NO,3,Franklin, Mr. Charles (Charles Fardon)
+1179,NO,1,Snyder, Mr. John Pillsbury
+1180,NO,3,Mardirosian, Mr. Sarkis
+1181,NO,3,Ford, Mr. Arthur
+1182,NO,1,Rheims, Mr. George Alexander Lucien
+1183,NO,3,Daly," Miss. Margaret Marcella Maggie"""""
+1184,NO,3,Nasr, Mr. Mustafa
+1185,NO,1,Dodge, Dr. Washington
+1186,NO,3,Wittevrongel, Mr. Camille
+1187,NO,3,Angheloff, Mr. Minko
+1188,NO,2,Laroche, Miss. Louise
+1189,NO,3,Samaan, Mr. Hanna
+1190,NO,1,Loring, Mr. Joseph Holland
+1191,NO,3,Johansson, Mr. Nils
+1192,NO,3,Olsson, Mr. Oscar Wilhelm
+1193,NO,2,Malachard, Mr. Noel
+1194,NO,2,Phillips, Mr. Escott Robert
+1195,NO,3,Pokrnic, Mr. Tome
+1196,NO,3,McCarthy," Miss. Catherine Katie"""""
+1197,NO,1,Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)
+1198,NO,1,Allison, Mr. Hudson Joshua Creighton
+1199,NO,3,Aks, Master. Philip Frank
+1200,NO,1,Hays, Mr. Charles Melville
+1201,NO,3,Hansen, Mrs. Claus Peter (Jennie L Howard)
+1202,NO,3,Cacic, Mr. Jego Grga
+1203,NO,3,Vartanian, Mr. David
+1204,NO,3,Sadowitz, Mr. Harry
+1205,NO,3,Carr, Miss. Jeannie
+1206,NO,1,White, Mrs. John Stuart (Ella Holmes)
+1207,NO,3,Hagardon, Miss. Kate
+1208,NO,1,Spencer, Mr. William Augustus
+1209,NO,2,Rogers, Mr. Reginald Harry
+1210,NO,3,Jonsson, Mr. Nils Hilding
+1211,NO,2,Jefferys, Mr. Ernest Wilfred
+1212,NO,3,Andersson, Mr. Johan Samuel
+1213,NO,3,Krekorian, Mr. Neshan
+1214,NO,2,Nesson, Mr. Israel
+1215,NO,1,Rowe, Mr. Alfred G
+1216,NO,1,Kreuchen, Miss. Emilie
+1217,NO,3,Assam, Mr. Ali
+1218,NO,2,Becker, Miss. Ruth Elizabeth
+1219,NO,1,Rosenshine," Mr. George (Mr George Thorne"")"""
+1220,NO,2,Clarke, Mr. Charles Valentine
+1221,NO,2,Enander, Mr. Ingvar
+1222,NO,2,Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) 
+1223,NO,1,Dulles, Mr. William Crothers
+1224,NO,3,Thomas, Mr. Tannous
+1225,NO,3,Nakid," Mrs. Said (Waika Mary"" Mowad)"""
+1226,NO,3,Cor, Mr. Ivan
+1227,NO,1,Maguire, Mr. John Edward
+1228,NO,2,de Brito, Mr. Jose Joaquim
+1229,NO,3,Elias, Mr. Joseph
+1230,NO,2,Denbury, Mr. Herbert
+1231,NO,3,Betros, Master. Seman
+1232,NO,2,Fillbrook, Mr. Joseph Charles
+1233,NO,3,Lundstrom, Mr. Thure Edvin
+1234,NO,3,Sage, Mr. John George
+1235,NO,1,Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)
+1236,NO,3,van Billiard, Master. James William
+1237,NO,3,Abelseth, Miss. Karen Marie
+1238,NO,2,Botsford, Mr. William Hull
+1239,NO,3,Whabee, Mrs. George Joseph (Shawneene Abi-Saab)
+1240,NO,2,Giles, Mr. Ralph
+1241,NO,2,Walcroft, Miss. Nellie
+1242,NO,1,Greenfield, Mrs. Leo David (Blanche Strouse)
+1243,NO,2,Stokes, Mr. Philip Joseph
+1244,NO,2,Dibden, Mr. William
+1245,NO,2,Herman, Mr. Samuel
+1246,NO,3,Dean," Miss. Elizabeth Gladys Millvina"""""
+1247,NO,1,Julian, Mr. Henry Forbes
+1248,NO,1,Brown, Mrs. John Murray (Caroline Lane Lamson)
+1249,NO,3,Lockyer, Mr. Edward
+1250,NO,3,O'Keefe, Mr. Patrick
+1251,NO,3,Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)
+1252,NO,3,Sage, Master. William Henry
+1253,NO,2,Mallet, Mrs. Albert (Antoinette Magnin)
+1254,NO,2,Ware, Mrs. John James (Florence Louise Long)
+1255,NO,3,Strilic, Mr. Ivan
+1256,NO,1,Harder, Mrs. George Achilles (Dorothy Annan)
+1257,NO,3,Sage, Mrs. John (Annie Bullen)
+1258,NO,3,Caram, Mr. Joseph
+1259,NO,3,Riihivouri," Miss. Susanna Juhantytar Sanni"""""
+1260,NO,1,Gibson, Mrs. Leonard (Pauline C Boeson)
+1261,NO,2,Pallas y Castello, Mr. Emilio
+1262,NO,2,Giles, Mr. Edgar
+1263,NO,1,Wilson, Miss. Helen Alice
+1264,NO,1,Ismay, Mr. Joseph Bruce
+1265,NO,2,Harbeck, Mr. William H
+1266,NO,1,Dodge, Mrs. Washington (Ruth Vidaver)
+1267,NO,1,Bowen, Miss. Grace Scott
+1268,NO,3,Kink, Miss. Maria
+1269,NO,2,Cotterill," Mr. Henry Harry"""""
+1270,NO,1,Hipkins, Mr. William Edward
+1271,NO,3,Asplund, Master. Carl Edgar
+1272,NO,3,O'Connor, Mr. Patrick
+1273,NO,3,Foley, Mr. Joseph
+1274,NO,3,Risien, Mrs. Samuel (Emma)
+1275,NO,3,McNamee, Mrs. Neal (Eileen O'Leary)
+1276,NO,2,Wheeler," Mr. Edwin Frederick"""""
+1277,NO,2,Herman, Miss. Kate
+1278,NO,3,Aronsson, Mr. Ernst Axel Algot
+1279,NO,2,Ashby, Mr. John
+1280,NO,3,Canavan, Mr. Patrick
+1281,NO,3,Palsson, Master. Paul Folke
+1282,NO,1,Payne, Mr. Vivian Ponsonby
+1283,NO,1,Lines, Mrs. Ernest H (Elizabeth Lindsey James)
+1284,NO,3,Abbott, Master. Eugene Joseph
+1285,NO,2,Gilbert, Mr. William
+1286,NO,3,Kink-Heilmann, Mr. Anton
+1287,NO,1,Smith, Mrs. Lucien Philip (Mary Eloise Hughes)
+1288,NO,3,Colbert, Mr. Patrick
+1289,NO,1,Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)
+1290,NO,3,Larsson-Rondberg, Mr. Edvard A
+1291,NO,3,Conlon, Mr. Thomas Henry
+1292,NO,1,Bonnell, Miss. Caroline
+1293,NO,2,Gale, Mr. Harry
+1294,NO,1,Gibson, Miss. Dorothy Winifred
+1295,NO,1,Carrau, Mr. Jose Pedro
+1296,NO,1,Frauenthal, Mr. Isaac Gerald
+1297,NO,2,Nourney," Mr. Alfred (Baron von Drachstedt"")"""
+1298,NO,2,Ware, Mr. William Jeffery
+1299,NO,1,Widener, Mr. George Dunton
+1300,NO,3,Riordan," Miss. Johanna Hannah"""""
+1301,NO,3,Peacock, Miss. Treasteall
+1302,NO,3,Naughton, Miss. Hannah
+1303,NO,1,Minahan, Mrs. William Edward (Lillian E Thorpe)
+1304,NO,3,Henriksson, Miss. Jenny Lovisa
+1305,NO,3,Spector, Mr. Woolf
+1306,NO,1,Oliva y Ocana, Dona. Fermina
+1307,NO,3,Saether, Mr. Simon Sivertsen
+1308,NO,3,Ware, Mr. Frederick
+1309,NO,3,Peter, Master. Michael J

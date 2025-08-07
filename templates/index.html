@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consulta Titanic</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Buscar pasajero por apellido</h1>
+    <form method="post">
+        <label>Apellido (LastName):</label>
+        <input type="text" name="lastname" required>
+        <input type="submit" value="Buscar">
+    </form>
+
+    {% if resultados %}
+    <h2>Resultados:</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Apellido</th>
+                <th>Nombre</th>
+                <th>Sobrevivió</th>
+                <th>Clase</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for fila in resultados %}
+            <tr>
+                <td>{{ fila.PassengerId }}</td>
+                <td>{{ fila.LastName }}</td>
+                <td>{{ fila.RestOfName }}</td>
+                <td>{{ fila.Survived }}</td>
+                <td>{{ fila.Pclass }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endif %}
+
+</body>
+</html>
